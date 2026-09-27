@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated test artifacts
+sample_daf.pdf
+previews/
+out/
+*.tmp
+_wm_check.png
+_clean_check.png
+
+# OS / editor
+Thumbs.db
+.DS_Store
