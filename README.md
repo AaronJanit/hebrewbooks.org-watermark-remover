@@ -1,4 +1,5 @@
 # remove-watermarks
+## Fully working AI generated project to remove watermarks from hebrewbooks.org dappim
 
 Remove watermark images from PDFs (HebrewBooks.org / Moznaim daf-style pages)
 while keeping the text, fonts, layout and filenames untouched.
